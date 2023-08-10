@@ -1,0 +1,14 @@
+/* Media query for screen sizes below 870px (e.g., mobile devices) */
+@media (max-width: 870px) {
+    body {
+        font-size: 16px; /* Increase font size for better readability on small screens */
+    }
+
+    .container {
+        width: 800px;
+        padding: 10px;
+        height: 800px;
+    }
+
+    
+}
